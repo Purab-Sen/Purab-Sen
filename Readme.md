@@ -26,6 +26,4 @@
 
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/purab-sen)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=react&logoColor=white)](https://www.purab.com.np)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:senpurab101@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/purab-sen)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=react&logoColor=white)](https://www.purab.com.np)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:senpurab101@gmail.com)
