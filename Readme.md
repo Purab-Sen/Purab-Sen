@@ -22,7 +22,7 @@
 
 
 ## 📊 GitHub Stats
-![Purab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Purab-Sen&show_icons=true&theme=tokyonight)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Purab-Sen&layout=compact&theme=tokyonight)
+![Purab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Purab-Sen&show_icons=true&theme=tokyonight)          ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Purab-Sen&layout=compact&theme=tokyonight)
 
 
 ## 🌐 Connect With Me
