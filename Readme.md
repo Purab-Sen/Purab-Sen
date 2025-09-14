@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Purab Sen  
-🎓 3rd-year B.Tech CSE student at Amrita Vishwa Vidyapeetham, Bangalore  
+# 👋 Hi, I'm Purab Sen   
 💡 Passionate about Software Development, Machine Learning & Problem Solving
 ## 🚀 About Me
 - 🔭 I’m currently working on: Time Series & Deep Learning Projects  
