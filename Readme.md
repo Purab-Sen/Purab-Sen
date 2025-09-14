@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Purab Sen   
 💡 Passionate about Software Development, Machine Learning & Problem Solving
 ## 🚀 About Me
-- 🔭 I’m currently working on: Time Series & Deep Learning Projects  
-- 🌱 Learning: Spring Boot, Cloud Deployment, System Design  
-- 👯 Looking to collaborate on: Open-source ML/AI projects  
+- 🌱 Learning: Spring Boot, Cloud Deployment, System Design, AI/ML  
+- 👯 Looking to collaborate on: Open-source projects  
 - ⚡ Fun fact: I love connecting scientific principles with real life (Einstein fan 🤓)
 
 
